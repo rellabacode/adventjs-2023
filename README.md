@@ -2,7 +2,7 @@
     <a href="https://adventjs.dev/">RETOS ADVENTJS 2023</a>
 </h1>
 
-![AdventJs 2023](https://github.com/rellabacode/adventjs-2023/blob/main/static/cover.jpeg)
+![AdventJs 2023](https://github.com/rellabacode/adventjs-2023/blob/main/static/cover.png)
 
 | Challenge | Dificulty | Logo | Title | Description | Solution | Points | Test |
 |:---------:|:---------:|:----:|:-----:|:-----------:|:--------:|:------:|:----:|
