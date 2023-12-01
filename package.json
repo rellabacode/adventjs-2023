@@ -1,0 +1,32 @@
+{
+  "name": "adventjs-2023",
+  "version": "1.0.0",
+  "description": "A project with all the challenges at https://adventjs.dev/ tested and solved",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint .",
+    "test": "jest",
+    "test:1": "jest i test/challenge01.test.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rellabacode/adventjs-2023.git"
+  },
+  "keywords": [
+    "rellabacode",
+    "adventjs",
+    "javascript"
+  ],
+  "author": "rellabacode",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rellabacode/adventjs-2023/issues"
+  },
+  "homepage": "https://github.com/rellabacode/adventjs-2023#readme",
+  "devDependencies": {
+    "@types/jest": "^29.5.1",
+    "@typescript-eslint/eslint-plugin": "^6.13.1",
+    "eslint": "^8.42.0",
+    "jest": "^29.5.0"
+  }
+}
