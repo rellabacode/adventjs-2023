@@ -4,8 +4,9 @@
 
 ![AdventJs 2023](https://github.com/rellabacode/adventjs-2023/blob/main/static/cover.png)
 
-| Challenge | Dificulty | Logo | Title | Desc. | Sol. | Points | Complexity | Ops/s | Test |
-|:---------:|:---------:|:----:|:-----:|-------|------|:------:|:----------:|:-----:|------|
+| Challenge | Dificulty |                                                                  Logo                                                                  |            Title             | Desc.                                             | Sol.                                                                                         | Points | Complexity | Ops/s | Test                                                                                                |
+|:---------:|:---------:|:--------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------:|---------------------------------------------------|----------------------------------------------------------------------------------------------|:------:|:----------:|:-----:|-----------------------------------------------------------------------------------------------------|
+|     2     |    🟢     | <img src="https://github.com/rellabacode/adventjs-2023/blob/feat/challenge02/static/2.png" alt="Logo Reto 2" width="100" height="100"> | Ponemos en marcha la fábrica | [Link](https://adventjs.dev/es/challenges/2023/2) | [Link](https://github.com/rellabacode/adventjs-2023/blob/feat/challenge02/src/challenge2.ts) |  270   |     3      | 2839  | [Link](https://github.com/rellabacode/adventjs-2023/blob/feat/challenge02/test/challenge02.test.ts) |
 
 ## 💻 | Install
 
