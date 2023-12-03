@@ -4,8 +4,8 @@
 
 ![AdventJs 2023](https://github.com/rellabacode/adventjs-2023/blob/main/static/cover.png)
 
-| Challenge | Dificulty | Logo | Title | Desc. | Sol. | Points | Complexity | Ops/s | Test |
-|:---------:|:---------:|:----:|:-----:|-------|------|:------:|:----------:|:-----:|------|
+| Challenge | Dificulty | Logo | Title | Desc. | Sol. | Test | Points | Complexity | Ops/s |
+|-----------|:---------:|:----:|:-----:|-------|------|------|:------:|:----------:|:-----:|
 
 ## 💻 | Install
 
